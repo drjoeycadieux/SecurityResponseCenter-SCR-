@@ -1,9 +1,14 @@
-main {
+* {
   padding: 0;
-  margin: 0
+  margin: 0;
 }
 
 .header {
   padding: 40px;
   background-color: #949494;
+}
+
+.header p {
+  text-align: center;
+  font-size: 45px;
 }
