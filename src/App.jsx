@@ -3,7 +3,11 @@ import './App.css'
 export default function App() {
   return (
     <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
+      <div className='header'>
+         <p>
+           Security Response Center (SRC)
+         </p>
+      </div>
     </main>
   )
 }
